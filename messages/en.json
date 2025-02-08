@@ -1,0 +1,90 @@
+{
+    "header": {
+        "menu": "Edit Menu",
+        "bills": "Bills",
+        "main": "Main",
+        "types": "Types"
+    },
+    "print-paper-data": {
+        "bill-number": "Bill number : ",
+        "cashierName": "Cashier name :",
+        "theResturant": "theResturant",
+        "address": "Homs, Alwaarm, Alferdaws street",
+        "phone": "phone : 0965478965"
+    },
+    "table": {
+        "actions": "Actions",
+        "total-price": "Total Price",
+        "unit-price": "Unit Price",
+        "name": "Name",
+        "nameAR": "Name in Arabic",
+        "nameEN": "Name in English",
+        "typeAR": "Type in Arabic",
+        "typeEN": "Type in English",
+        "count": "Count",
+        "id": "ID",
+        "price": "Price",
+        "image": "Image",
+        "type": "Type",
+        "rowsPerPage": "Rows per page :"
+    },
+    "bill": {
+        "print": "Print",
+        "add-to-cash": "Add to cash",
+        "clear-cash": "Clear cash",
+        "total-cash": "Total cash"
+    },
+    "my-bills": {
+        "id": "ID",
+        "number": "Bill number",
+        "cashierName": "Cashier name",
+        "unknownCashier": "Unknown",
+        "total": "Bill total",
+        "date": "Date",
+        "time": "Time",
+        "details": "Details",
+        "select": "Select",
+        "search-by-date": "Enter Bills Date",
+        "total-day-price": "Total for this day"
+    },
+    "buttons": {
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "add-item": "Add item",
+        "add": "Add",
+        "show-details": "Show Details",
+        "back": "Back",
+        "delete": "Delete",
+        "delete-selected": "Delete Selected",
+        "edit": "Edit",
+        "backToHome": "Back to main",
+        "start": "START"
+    },
+    "labels": {
+        "add-type": "Add Type",
+        "password": "Password",
+        "enterName": "ENTER YOUR NAME TO START",
+        "count": "Choose quantity"
+    },
+    "messages": {
+        "clear-cash": "Are you sure you want to clear all cash ?",
+        "delete-item": "Are you sure you want to delete this item ?",
+        "delete-bills": "Are you sure you want to delete these bills ?",
+        "no-data": "No Data",
+        "image-type-error": "file type is not supported",
+        "image-max-size-error": "Image should be 1MB or less",
+        "not-empty": "Value shuold not be empty",
+        "password-confirm": "Please enter admin password !"
+    },
+    "apiMessages": {
+        "successAdd": "Added successfully",
+        "successDelete": "Delete successfully",
+        "successEdit": "Edit successfully",
+        "errorDeleteId": "Id is not exist",
+        "errorDeleteNotFound": "'Item not found or already deleted'",
+        "error": "Unexpected Error",
+        "successClearCash": "Clear cash has been success",
+        "billIsEmpty": "Bill Content is empty",
+        "incorrectPasswrod": "!! Incorrect Passwrod"
+    }
+}
