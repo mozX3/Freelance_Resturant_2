@@ -140,7 +140,7 @@ const MenuList = ({ setBillData, chosenCount, setChosenCount }: any) => {
                       onClick={() => handleAddItem(item)}
                     >
                       <div>
-                        <img src={item.image} />
+                        {item?.image && <img src={item.image} />}
                         <div>
                           <p>{item.name?.[langCurrent]}</p>
                           <p>{item.price}$</p>
